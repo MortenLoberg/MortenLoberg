@@ -1,8 +1,6 @@
 👋 Hi, I’m @MortenLoberg
 
-👀 I’m interested in Linux and bash shell script programming, home-assistant and home automation, SAS Viya programming and AI.
-
-🌱 I’m currently learning SAS Viya DS2 programming.
+👀 I’m interested in Linux and bash shell script programming, home-assistant and home automation.
 
 💞️ I’m looking to collaborate on bash shell script and home-assistant projects.
 
